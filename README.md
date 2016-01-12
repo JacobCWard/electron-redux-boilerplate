@@ -8,7 +8,7 @@ make install
 
 2. Start the server serving the app:
 ```
-make server
+make serve
 ```
 
 3. Fire up the desktop app with Electron:
